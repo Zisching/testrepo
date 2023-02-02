@@ -45,7 +45,7 @@ var config = {
     COLORFUL: true,
     COLOR_UPDATE_SPEED: 10,
     PAUSED: false,
-    BACK_COLOR: { r: 100, g: 100, b: 100 },
+    BACK_COLOR: { r: 255, g: 255, b: 255 },
     TRANSPARENT: false,
     BLOOM: true,
     BLOOM_ITERATIONS: 8,
